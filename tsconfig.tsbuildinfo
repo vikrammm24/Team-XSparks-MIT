@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/Layout.tsx","./src/context/AppContext.tsx","./src/context/AuthContext.tsx","./src/context/DatabaseContext.tsx","./src/pages/Home.tsx","./src/pages/Login.tsx","./src/pages/Register.tsx","./src/pages/Tier1.tsx","./src/pages/Tier2.tsx","./src/pages/Tier3.tsx","./src/pages/Tier4.tsx"],"errors":true,"version":"5.9.3"}

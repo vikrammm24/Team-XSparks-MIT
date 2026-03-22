@@ -1,0 +1,1 @@
+lrwxrwxrwx. 1 khushiii khushiii 0 Mar 22 13:32 /proc/15047/cwd -> /home/khushiii/vikaas

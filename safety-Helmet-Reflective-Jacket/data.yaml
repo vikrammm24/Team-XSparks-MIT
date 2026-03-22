@@ -1,0 +1,8 @@
+path: /home/khushiii/vikaas/safety-Helmet-Reflective-Jacket
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: 'Safety-Helmet'
+  1: 'Reflective-Jacket'
+nc: 2

@@ -1,0 +1,4 @@
+.
+./training_env
+./training_env/bin
+./training_env/share

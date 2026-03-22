@@ -1,0 +1,8 @@
+COMMAND   PID     USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+python  15047 khushiii  cwd    DIR   0,37     1726 1979616 /home/khushiii/vikaas
+python  15047 khushiii  rtd    DIR   0,38      178     256 /
+python  15047 khushiii  txt    REG   0,37 17504824 2141392 /home/khushiii/.conda/envs/vikaas_ppe/bin/python3.10
+python  15047 khushiii    0r  FIFO   0,15      0t0   98407 pipe
+python  15047 khushiii    1w  FIFO   0,15      0t0   98408 pipe
+python  15047 khushiii    2w  FIFO   0,15      0t0   98409 pipe
+python  15047 khushiii    3r   REG   0,37   756072 2159097 /home/khushiii/.conda/envs/vikaas_ppe/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf

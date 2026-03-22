@@ -1,0 +1,1 @@
+/home/khushiii/vikaas/safety-Helmet-Reflective-Jacket/train/labels/helmet_jacket_00679.txt

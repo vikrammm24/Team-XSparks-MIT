@@ -1,0 +1,7 @@
+
+# conda environments:
+#
+# * -> active
+# + -> frozen
+base                     /usr
+

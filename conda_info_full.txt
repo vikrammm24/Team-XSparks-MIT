@@ -1,0 +1,30 @@
+
+     active environment : None
+            shell level : 0
+       user config file : /home/khushiii/.condarc
+ populated config files : /usr/share/conda/condarc.d/defaults.yaml
+          conda version : 25.11.0
+    conda-build version : not installed
+         python version : 3.14.3.final.0
+                 solver : libmamba (default)
+       virtual packages : __archspec=1=skylake
+                          __conda=25.11.0=0
+                          __cuda=0=0
+                          __glibc=2.42=0
+                          __linux=6.18.16=0
+                          __unix=0=0
+       base environment : /usr  (read only)
+      conda av data dir : /etc/conda
+  conda av metadata url : None
+           channel URLs : https://conda.anaconda.org/conda-forge/linux-64
+                          https://conda.anaconda.org/conda-forge/noarch
+          package cache : /var/cache/conda/pkgs
+                          /home/khushiii/.conda/pkgs
+       envs directories : /home/khushiii/.conda/envs
+                          /usr/envs
+               platform : linux-64
+             user-agent : conda/25.11.0 requests/2.32.5 CPython/3.14.3 Linux/6.18.16-200.fc43.x86_64 fedora/43 glibc/2.42 solver/libmamba conda-libmamba-solver/25.4.0 libmambapy/2.3.2
+                UID:GID : 1000:1000
+             netrc file : None
+           offline mode : False
+

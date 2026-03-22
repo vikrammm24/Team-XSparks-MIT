@@ -1,0 +1,9 @@
+  File: yolo11n.pt
+  Size: 5613764   	Blocks: 10968      IO Block: 4096   regular file
+Device: 0,37	Inode: 2179917     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/khushiii)   Gid: ( 1000/khushiii)
+Context: unconfined_u:object_r:user_home_t:s0
+Access: 2026-03-22 12:45:30.669323139 +0530
+Modify: 2026-03-22 12:45:30.668323147 +0530
+Change: 2026-03-22 12:45:30.668323147 +0530
+ Birth: 2026-03-22 12:45:29.329335056 +0530

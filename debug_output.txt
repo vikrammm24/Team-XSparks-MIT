@@ -1,0 +1,4 @@
+Sun Mar 22 10:28:26 AM IST 2026
+fedora
+pip 25.1.1 from /usr/lib/python3.14/site-packages/pip (python 3.14)
+Python 3.14.3

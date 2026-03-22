@@ -1,0 +1,16 @@
+{
+  "envs": [
+    "/usr"
+  ],
+  "envs_details": {
+    "/usr": {
+      "name": "base",
+      "created": null,
+      "last_modified": null,
+      "active": false,
+      "base": true,
+      "frozen": false,
+      "writable": null
+    }
+  }
+}

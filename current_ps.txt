@@ -1,0 +1,11 @@
+root        1299  0.0  0.1 369508 23116 ?        Ssl  12:53   0:00 /usr/bin/python3 -sP /usr/bin/firewalld --nofork --nopid
+root        1444  0.0  0.2 499540 32160 ?        Ssl  12:53   0:00 /usr/bin/python3 -Es /usr/sbin/tuned -l -P
+root        1459  0.0  0.2 498052 32080 ?        Ssl  12:53   0:00 /usr/bin/python3 -Es /usr/sbin/tuned-ppd -l
+khushiii    5804  0.0  0.2 619440 37424 ?        Sl   12:54   0:00 /usr/bin/python3 /usr/share/ibus-typing-booster/engine/main.py --ibus
+khushiii    8438  0.0  0.0  32492  3400 ?        Sl   12:56   0:00 /home/khushiii/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.python-2026.4.0-linux-x64/python-env-tools/bin/pet server
+khushiii    8501  0.0  0.0  31360  4316 ?        Sl   12:56   0:01 /home/khushiii/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.vscode-python-envs-1.20.1-linux-x64/python-env-tools/bin/pet server
+khushiii    8705  1.0  0.5 1462932240 95520 ?    Sl   12:56   0:19 /app/extra/vscode/code /home/khushiii/.var/app/com.visualstudio.code/data/vscode/extensions/ms-python.vscode-pylance-2026.1.1/dist/server.bundle.js --cancellationReceive=file:7a5f6dedb1a2d582e17568f268f5ea61610fc3b9c4 --node-ipc --clientProcessId=167
+khushiii   14991  0.1  0.1 308180 23440 pts/1    S    13:24   0:00 /usr/bin/python3 -sP /usr/bin/conda run -n vikaas_ppe python train_ppe_v2.py
+khushiii   15047  707 33.3 11350384 5338008 pts/1 Rl  13:24  32:55 python train_ppe_v2.py
+khushiii   15593 14.0  0.4 150656 69200 ?        Sl   13:25   0:24 /home/khushiii/Downloads/archive/.venv/bin/python -m pip install -U torchvision
+khushiii   15965  0.0  0.0 231272  2592 pts/1    S+   13:28   0:00 grep --color=auto python

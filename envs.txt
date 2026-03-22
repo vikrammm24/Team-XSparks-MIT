@@ -1,0 +1,8 @@
+
+# conda environments:
+#
+# * -> active
+# + -> frozen
+vikaas_ppe               /home/khushiii/.conda/envs/vikaas_ppe
+base                     /usr
+

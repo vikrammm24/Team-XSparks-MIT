@@ -1,0 +1,8 @@
+path: /home/khushiii/vikaas
+train: ppe_training/subset_train_700/images
+val: safety-Helmet-Reflective-Jacket/valid/images
+test: safety-Helmet-Reflective-Jacket/test/images
+names:
+  0: Safety-Helmet
+  1: Reflective-Jacket
+nc: 2

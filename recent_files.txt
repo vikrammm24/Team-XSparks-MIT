@@ -1,0 +1,10 @@
+./ps_check.txt
+./ppe_train_list.txt
+./weights_check.txt
+./current_ps.txt
+./ppe_check.txt
+./cache_check.txt
+./recent_dirs.txt
+./home_check.txt
+./runs_check.txt
+./recent_files.txt

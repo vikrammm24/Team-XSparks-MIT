@@ -1,0 +1,3 @@
+khushiii   14991  0.3  0.1 308180 23404 pts/1    S    13:24   0:00 /usr/bin/python3 -sP /usr/bin/conda run -n vikaas_ppe python train_ppe_v2.py
+khushiii   15047  633 34.0 11412380 5462960 pts/1 Rl  13:24  10:35 python train_ppe_v2.py
+khushiii   15541  0.0  0.0 231408  2584 pts/1    S+   13:25   0:00 grep --color=auto train_ppe_v2.py
